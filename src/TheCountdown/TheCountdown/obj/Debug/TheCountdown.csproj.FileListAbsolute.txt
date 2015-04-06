@@ -1,0 +1,11 @@
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\bin\Debug\TheCountdown.exe.config
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\bin\Debug\TheCountdown.exe
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\bin\Debug\TheCountdown.pdb
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.csprojResolveAssemblyReference.cache
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.TheCountdown.resources
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.Properties.Resources.resources
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.csproj.GenerateResource.Cache
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.exe
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.pdb
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.AddTimerPanel.resources
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.TimersPanel.resources
