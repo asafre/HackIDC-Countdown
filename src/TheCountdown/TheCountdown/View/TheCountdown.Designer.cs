@@ -59,9 +59,9 @@
             // mainPnl
             // 
             this.mainPnl.BackColor = System.Drawing.SystemColors.Control;
-            this.mainPnl.Location = new System.Drawing.Point(0, 33);
+            this.mainPnl.Location = new System.Drawing.Point(0, 39);
             this.mainPnl.Name = "mainPnl";
-            this.mainPnl.Size = new System.Drawing.Size(272, 365);
+            this.mainPnl.Size = new System.Drawing.Size(272, 359);
             this.mainPnl.TabIndex = 1;
             // 
             // pctSuggestions

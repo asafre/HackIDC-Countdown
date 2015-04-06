@@ -8,6 +8,6 @@ namespace TheCountdown.Model
 {
     interface IDataStorage
     {
-        public virtual bool SaveTimer(STimerDetails timerToSave);
+        bool SaveTimer(STimerDetails timerToSave);
     }
 }

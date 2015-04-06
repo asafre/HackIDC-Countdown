@@ -9,3 +9,4 @@ C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debu
 C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.pdb
 C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.AddTimerPanel.resources
 C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.TimersPanel.resources
+C:\Users\Asaf\Documents\HackIDC\countdown\src\TheCountdown\TheCountdown\obj\Debug\TheCountdown.View.TimerDetail.resources

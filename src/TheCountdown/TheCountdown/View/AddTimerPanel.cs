@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using TheCountdown.Model;
 
 namespace TheCountdown
 {
@@ -57,7 +58,7 @@ namespace TheCountdown
                                          calander.SelectionEnd.Date, 
                                          dateTimePicker1.Value.TimeOfDay);
 
-            if (saveTimerDetails(s))
+            if (!saveTimerDetails(s))
             {
                 MessageBox.Show("Can't set timer.");
             }
@@ -75,6 +76,8 @@ namespace TheCountdown
 
         public bool saveTimerDetails(STimerDetails details)
         {
+            FileStorage file = new FileStorage();
+            file.SaveTimer(details);
             return true;
         }
     }
